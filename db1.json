@@ -58,27 +58,8 @@
     },
     {
       "id": "2",
-      "name": "Music",
-      "thumbnail": "http://wtswimclub.com/wp-content/uploads/2017/05/nj-swim-team.png",
-      "Clubs": [
-        {
-          "name": "",
-          "logo": "",
-          "info": "",
-          "tel": ""
-        },
-        {
-          "name": "",
-          "logo": "",
-          "info": "",
-          "tel": ""
-        }
-      ]
-    },
-    {
-      "id": "3",
-      "name": "",
-      "thumbnail": "http://wtswimclub.com/wp-content/uploads/2017/05/nj-swim-team.png",
+      "name": "Tennis",
+      "thumbnail": "http://www.stickpng.com/assets/images/580b585b2edbce24c47b2b90.png",
       "Clubs": [
         {
           "name": "",
