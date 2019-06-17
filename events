@@ -1,0 +1,43 @@
+{
+        "Events": [{
+                "id": "0",
+                "host": "Apple",
+                "date": "2019-05-24",
+                "location": "Beirut-Water Front",
+                "title": "Hello World",
+                "Bool": false
+            },
+            {
+                "id": "1",
+                "host": "HP",
+                "date": "2019-04-24",
+                "location": "Beirut-Achrafieh",
+                "title": "Hello World2",
+                "Bool": false
+            },
+            {
+                "id": "2",
+                "host": "Lenovo",
+                "date": "2019-06-25",
+                "location": "Dbaye-Water Front",
+                "title": "1st Event",
+                "Bool": false
+            },
+            {
+                "id": "3",
+                "host": "Acer",
+                "date": "2019-06-25",
+                "location": "Dbaye-Water Front",
+                "title": "Weekly Developers Meetup - more than game",
+                "Bool": false
+            },
+            {
+                "id": "4",
+                "host": "Toshiba",
+                "date": "2019-06-25",
+                "location": "Dbaye-Water Front",
+                "title": "The Beirut Graphic Design Meeting Group ",
+                "Bool": false
+            }
+        ]
+    }
