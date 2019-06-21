@@ -5,6 +5,9 @@
                 "date": "2019-05-24",
                 "location": "Beirut-Water Front",
                 "title": "Hello World",
+                "time": "sunday",
+                "image": "",
+                "details": "hello world",
                 "Bool": false
             },
             {
@@ -13,14 +16,20 @@
                 "date": "2019-04-24",
                 "location": "Beirut-Achrafieh",
                 "title": "Hello World2",
+                "time": "sunday",
+                "image": "",
+                "details": "hello world",
                 "Bool": false
             },
             {
                 "id": "2",
-                "host": "Lenovo",
-                "date": "2019-06-25",
-                "location": "Dbaye-Water Front",
-                "title": "1st Event",
+                "host": "YoofLab",
+                "date": "2019-06-22",
+                "location": "Jabal Moussa Biosphere Reserve",
+                "title": "Hiking Trip to Jabal Moussa",
+                "image": "https://scontent.fbey14-1.fna.fbcdn.net/v/t1.0-9/64402040_1163589050506375_7878404978027528192_n.jpg?_nc_cat=100&_nc_ht=scontent.fbey14-1.fna&oh=ab59f57eb69953e4364e71a49d6f8864&oe=5D8CDD0C",
+                "details": "Our hiking trip will be packed with fun and memorable adventures. We will have a treasure hunt for the kids. We will then enjoy the special hike filled with scenic views, with a chance to see some birds and animals, while spending a perfect Saturday surrounded by nature! \r\n\r\n* The hike will be of an easy to moderate level, it shall take 1:30 to 2 hours.\r\n* The trip fees are 45,000 L.L (covering transportation from and back to Beirut, cost of the guide, and entrance fees to the Reserve) \r\n * The price doesn\u2019t cover the lunch meal \r\n\r\n* Meeting point: Next to Khoury Home, Jnah\r\n* Time: 8:00\r\n* Departure: 8:30 am sharp \r\n\r\nPlease wear comfortable walking shoes, sunscreen, and a cap. Don\u2019t forget your water, healthy snacks, and positive vibes! \r\n\r\nNote: We will stop at Wooden Bakery at Zouk Mosbeh for breakfast. \r\n\r\nReservation is a must, please click here to register : \r\nhttps:\/\/www.surveymonkey.com\/r\/FS3LXJK\r\n\r\nFor more details, please call or send us a whatsapp message on \/78-942381",
+                "time": "Saturday at 08:00 am - 03:00 pm",
                 "Bool": false
             },
             {
@@ -29,6 +38,9 @@
                 "date": "2019-06-25",
                 "location": "Dbaye-Water Front",
                 "title": "Weekly Developers Meetup - more than game",
+                "time": "sunday",
+                "image": "",
+                "details": "hello world",
                 "Bool": false
             },
             {
@@ -37,6 +49,9 @@
                 "date": "2019-06-25",
                 "location": "Dbaye-Water Front",
                 "title": "The Beirut Graphic Design Meeting Group ",
+                "time": "sunday",
+                "image": "",
+                "details": "hello world",
                 "Bool": false
             }
         ]
